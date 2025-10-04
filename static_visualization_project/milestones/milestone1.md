@@ -16,7 +16,7 @@ The OECD Data Explorer provides regional indicators at the TL2 level for roughly
 
 Size and coverage. Row counts vary by indicator and time span. At TL2, a typical extract yields about 8,000 observations per indicator for a single year. A ten-year panel is about 80,000 observations per indicator. Coverage includes approximately 400–450 subnational regions with breakdowns by sex and two age groups.
 
-Typical fields. Time period, country name and ISO code, territorial level, region name and OECD TL code, sex, age group, indicator code and label, unit of measure, observation value, and standard metadata such as observation status or flags.
+Typical fields. Time period, indicator value, country name and ISO code, territorial level, region name and OECD TL code, sex, age group, indicator code and label, unit of measure, observation value, and standard metadata such as observation status or flags.
 
 Notes. Final selections will prioritise indicators with consistent definitions across countries and years. Where necessary, I will document missing values, revisions, and any known comparability issues. 
 
