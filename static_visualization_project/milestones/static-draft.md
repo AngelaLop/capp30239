@@ -1,4 +1,4 @@
-# ...existing code...
+
 # Mapping Human Capital Territorial Inequalities in High- and Upper-Middle-Income Countries
 
 Angela Lopez
