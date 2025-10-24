@@ -19,7 +19,7 @@ By improving their skills, health, knowledge, and resilience (their human capita
 
 Today the world is healthier and more educated than ever, and most countries have increased their human capital levels.
 
-[soon: a graph on the HCI trend — I'm still calculating it properly for some years]
+![alt text](../graphs/Line_hci_2010_2024.png)
 
 However, aggregated data hides important inequalities. For instance, education in some countries remains a challenge and is a major factor explaining the low HCI of some countries (see Chart 2).
 
