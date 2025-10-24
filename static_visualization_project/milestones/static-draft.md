@@ -13,13 +13,13 @@ No — the charts I am presenting use real data from OECD territorial statistics
 
 ## Describe each of the provided images with 2–3 sentences to give the context and how it relates to your goal.
 
-By improving their skills, health, knowledge, and resilience (their human capital), people can be more productive, flexible, and innovative. Human capital, and each of its components (health and education), are highly correlated with productivity and wellbeing markers (see Chart 1).
-
-![alt text](../graphs/scatter_gdp_combined.png)
-
 Today the world is healthier and more educated than ever, and most countries have increased their human capital levels.
 
 ![alt text](../graphs/Line_hci_2010_2024.png)
+
+By improving their skills, health, knowledge, and resilience (their human capital), people can be more productive, flexible, and innovative. Human capital, and each of its components (markers of health and education), are highly correlated with productivity and wellbeing markers (see Chart 1).
+
+![alt text](../graphs/scatter_gdp_combined.png)
 
 However, aggregated data hides important inequalities. For instance, education in some countries remains a challenge and is a major factor explaining the low HCI of some countries (see Chart 2).
 
