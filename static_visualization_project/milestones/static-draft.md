@@ -23,7 +23,7 @@ By improving their skills, health, knowledge, and resilience (their human capita
 
 However, aggregated data hides important inequalities. For instance, education in some countries remains a challenge and is a major factor explaining the low HCI of some countries (see Chart 2).
 
-![alt text](../graphs/stacked_hci_components_by_country.png)
+![alt text](../graphs/stacked_hci_components_by_country.png).
 
 In countries such as Romania and Italy, tertiary education attainment among the population aged 25+ is much lower than in countries such as Canada. Although countries like the United States have a high overall education attainment level, regional inequalities are very large.
 
