@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="445"
+   height="485"
+   viewBox="0 0 445 485"
+   id="svg65"
+   sodipodi:docname="08 scatter_education_attainment_vs_gdp_edited.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs65" />
+  <sodipodi:namedview
+     id="namedview65"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.2082474"
+     inkscape:cx="222.63652"
+     inkscape:cy="242.5"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="199"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg65" />
+  <rect
+     width="445"
+     height="485"
+     fill="white"
+     id="rect1" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(39,48)"
+     id="g65">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g64">
+      <g
+         transform="translate(0,0)"
+         id="g63">
+        <g
+           id="g62">
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="X-axis titled 'GDP per Capita (2023 - log scale)' for a linear scale with values from 9 to 12"
+             id="g13">
+            <g
+               transform="translate(0.5,400.5)"
+               id="g12">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path2" />
+              <g
+                 id="g11">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g5">
+                  <line
+                     transform="translate(0,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line2" />
+                  <line
+                     transform="translate(133,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line3" />
+                  <line
+                     transform="translate(267,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line4" />
+                  <line
+                     transform="translate(400,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line5" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g8">
+                  <text
+                     text-anchor="start"
+                     transform="translate(0,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text5">9</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(133.33333333333331,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text6">10</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(266.66666666666663,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text7">11</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(400,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text8">12</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g9">
+                  <line
+                     transform="translate(0,0)"
+                     x2="400"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line8" />
+                </g>
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g10">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(200,30)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text9"><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+                       id="tspan67">GDP per Capita (2023 - log scale)</tspan></text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path11" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="Y-axis titled 'Education Attainment (%)' for a linear scale with values from 10 to 65"
+             id="g28">
+            <g
+               transform="translate(0.5,0.5)"
+               id="g27">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path13" />
+              <g
+                 id="g26">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g18">
+                  <line
+                     transform="translate(0,400)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line13" />
+                  <line
+                     transform="translate(0,327)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line14" />
+                  <line
+                     transform="translate(0,255)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line15" />
+                  <line
+                     transform="translate(0,182)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line16" />
+                  <line
+                     transform="translate(0,109)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line17" />
+                  <line
+                     transform="translate(0,36)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line18" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g23">
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,403)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text18">10</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,330.27272727272725)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text19">20</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,257.5454545454545)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text20">30</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,184.81818181818184)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text21">40</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,112.09090909090908)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text22">50</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,39.363636363636374)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text23">60</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g24" />
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g25">
+                  <text
+                     text-anchor="middle"
+                     transform="rotate(-90,87.938477,112.06152)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text24"><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+                       id="tspan65">Percentage</tspan></text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path26" />
+            </g>
+          </g>
+          <g
+             class="mark-symbol role-mark layer_0_marks"
+             role="graphics-object"
+             aria-roledescription="symbol mark container"
+             id="g56">
+            <path
+               aria-label="2023: 60461.1564; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 49; Reference area: Australia; OBS_VALUE: 48.7"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(267.967519312783,118.5454545454545)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path28" />
+            <path
+               aria-label="2023: 64394.09052; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 37; Reference area: Austria; OBS_VALUE: 37.4"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(276.3702861026992,200.72727272727272)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path29" />
+            <path
+               aria-label="2023: 33141.84442; GDP per Capita (2023 - log scale): 10; Education Attainment (%): 34; Reference area: Bulgaria; OBS_VALUE: 33.8"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(187.8069259777571,226.90909090909093)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path30" />
+            <path
+               aria-label="2023: 19079.81221; GDP per Capita (2023 - log scale): 10; Education Attainment (%): 15; Reference area: Brazil; OBS_VALUE: 14.8"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(114.1848136947542,365.09090909090907)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path31" />
+            <path
+               aria-label="2023: 57517.44316; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 63; Reference area: Canada; OBS_VALUE: 63.4"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(261.3124720114212,11.636363636363667)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path32" />
+            <path
+               aria-label="2023: 82302.04918; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 47; Reference area: Switzerland; OBS_VALUE: 46.5"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(309.0868380348837,134.54545454545453)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path33" />
+            <path
+               aria-label="2023: 29563.67802; GDP per Capita (2023 - log scale): 10; Education Attainment (%): 33; Reference area: Chile; OBS_VALUE: 32.9"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(172.57357238626935,233.4545454545455)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path34" />
+            <path
+               aria-label="2023: 18382.99768; GDP per Capita (2023 - log scale): 10; Education Attainment (%): 28; Reference area: Colombia; OBS_VALUE: 27.5"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(109.22419697057417,272.72727272727275)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path35" />
+            <path
+               aria-label="2023: 25979.62862; GDP per Capita (2023 - log scale): 10; Education Attainment (%): 23; Reference area: Costa Rica; OBS_VALUE: 22.8"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(155.3423993706976,306.90909090909093)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path36" />
+            <path
+               aria-label="2023: 47509.52384; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 28; Reference area: Czechia; OBS_VALUE: 27.5"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(235.8247295759535,272.72727272727275)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path37" />
+            <path
+               aria-label="2023: 62686.54085; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 35; Reference area: Germany; OBS_VALUE: 34.5"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(272.786939211831,221.8181818181818)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path38" />
+            <path
+               aria-label="2023: 71454.52091; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 45; Reference area: Denmark; OBS_VALUE: 45.1"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(290.2421940152249,144.72727272727272)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path39" />
+            <path
+               aria-label="2023: 47341.17179; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 42; Reference area: Spain; OBS_VALUE: 42"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(235.35141805361425,167.27272727272728)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path40" />
+            <path
+               aria-label="2023: 56246.44315; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 43; Reference area: Finland; OBS_VALUE: 42.6"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(258.3330780237993,162.90909090909088)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path41" />
+            <path
+               aria-label="2023: 54017.87417; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 43; Reference area: France; OBS_VALUE: 43.4"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(252.94270319001365,157.0909090909091)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path42" />
+            <path
+               aria-label="2023: 52502.91533; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 53; Reference area: United Kingdom; OBS_VALUE: 52.8"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(249.14986361776195,88.72727272727276)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path43" />
+            <path
+               aria-label="2023: 36854.5044; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 35; Reference area: Greece; OBS_VALUE: 35.2"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(201.96441683193692,216.7272727272727)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path44" />
+            <path
+               aria-label="2023: 40368.58819; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 31; Reference area: Hungary; OBS_VALUE: 31.1"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(214.10763219656678,246.54545454545453)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path45" />
+            <path
+               aria-label="2023: 47527.15102; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 50; Reference area: Israel; OBS_VALUE: 50.1"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(235.8741902856655,108.36363636363635)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path46" />
+            <path
+               aria-label="2023: 52725.7462; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 22; Reference area: Italy; OBS_VALUE: 22.3"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(249.71455439010958,310.54545454545456)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path47" />
+            <path
+               aria-label="2023: 21905.17733; GDP per Capita (2023 - log scale): 10; Education Attainment (%): 21; Reference area: Mexico; OBS_VALUE: 20.8"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(132.59710608363164,321.45454545454544)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path48" />
+            <path
+               aria-label="2023: 70673.969; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 45; Reference area: Netherlands; OBS_VALUE: 44.6"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(288.77767927373554,148.36363636363635)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path49" />
+            <path
+               aria-label="2023: 90085.55245; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 50; Reference area: Norway; OBS_VALUE: 49.5"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(321.1353440763313,112.72727272727275)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path50" />
+            <path
+               aria-label="2023: 49083.50859; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 40; Reference area: New Zealand; OBS_VALUE: 40.1"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(240.17045112447684,181.0909090909091)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path51" />
+            <path
+               aria-label="2023: 43672.7668; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 40; Reference area: Poland; OBS_VALUE: 39.5"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(224.59733352910476,185.45454545454544)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path52" />
+            <path
+               aria-label="2023: 41571.02034; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 31; Reference area: Portugal; OBS_VALUE: 31.4"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(218.02114360667986,244.36363636363637)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path53" />
+            <path
+               aria-label="2023: 40303.81833; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 19; Reference area: Romania; OBS_VALUE: 19.2"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(213.89353214522396,333.0909090909091)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path54" />
+            <path
+               aria-label="2023: 62845.48323; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 51; Reference area: Sweden; OBS_VALUE: 50.5"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(273.1245794086396,105.45454545454547)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path55" />
+            <path
+               aria-label="2023: 74158.71642; GDP per Capita (2023 - log scale): 11; Education Attainment (%): 46; Reference area: United States; OBS_VALUE: 46.2"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(295.19505224500267,136.72727272727272)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#E00A0A"
+               stroke-width="2"
+               opacity="0.7"
+               id="path56" />
+          </g>
+          <g
+             class="mark-line role-mark layer_1_marks"
+             role="graphics-object"
+             aria-roledescription="line mark container"
+             id="g57">
+            <path
+               aria-label="log_2023: 9.81918147728; OBS_VALUE: 19.4306282827"
+               role="graphics-symbol"
+               aria-roledescription="line mark"
+               d="M109.224,331.414L321.135,102.734"
+               stroke="#3F3E3EC3"
+               stroke-width="2"
+               stroke-dasharray="4,2"
+               id="path57" />
+          </g>
+          <g
+             class="mark-group role-title"
+             id="g61">
+            <g
+               transform="translate(-33.123046875,-43)"
+               id="g60">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path58" />
+              <g
+                 id="g59">
+                <g
+                   class="mark-text role-title-text"
+                   role="graphics-symbol"
+                   aria-roledescription="title"
+                   aria-label="Title text 'Education Attainment vs GDP per Capita (2023 - log)'"
+                   pointer-events="none"
+                   id="g58">
+                  <text
+                     text-anchor="start"
+                     font-family="sans-serif"
+                     font-size="13px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text58"
+                     style="font-size:16px"
+                     x="8.2764502"
+                     y="17.448805"><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+                       id="tspan66">Education Attainment</tspan></text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path59" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path62" />
+      </g>
+    </g>
+  </g>
+  <rect
+     style="fill:#4d4d4d;stroke-width:1.1547"
+     id="rect67"
+     width="9.9317408"
+     height="26.484642"
+     x="-1.4646875e-07"
+     y="2.4829352" />
+</svg>
