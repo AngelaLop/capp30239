@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="445"
+   height="485"
+   viewBox="0 0 445 485"
+   id="svg62"
+   sodipodi:docname="11 scatter_health_life_expectancy_vs_gdp_edited.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs62" />
+  <sodipodi:namedview
+     id="namedview62"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.2082474"
+     inkscape:cx="222.63652"
+     inkscape:cy="242.5"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="199"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg62" />
+  <rect
+     width="445"
+     height="485"
+     fill="white"
+     id="rect1" />
+  <rect
+     style="fill:#4d4d4d;stroke-width:1.1547"
+     id="rect67"
+     width="9.9317408"
+     height="26.484642"
+     x="0.41126281"
+     y="4.7559729" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(39,48)"
+     id="g62">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g61">
+      <g
+         transform="translate(0,0)"
+         id="g60">
+        <g
+           id="g59">
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="X-axis titled 'GDP per Capita (2023 - log scale)' for a linear scale with values from 9 to 12"
+             id="g13">
+            <g
+               transform="translate(0.5,400.5)"
+               id="g12">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path2" />
+              <g
+                 id="g11">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g5">
+                  <line
+                     transform="translate(0,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line2" />
+                  <line
+                     transform="translate(133,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line3" />
+                  <line
+                     transform="translate(267,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line4" />
+                  <line
+                     transform="translate(400,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line5" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g8">
+                  <text
+                     text-anchor="start"
+                     transform="translate(0,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text5">9</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(133.33333333333331,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text6">10</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(266.66666666666663,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text7">11</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(400,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text8">12</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g9">
+                  <line
+                     transform="translate(0,0)"
+                     x2="400"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line8" />
+                </g>
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g10">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(200,30)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="bold"
+                     fill="#000"
+                     opacity="1"
+                     id="text9"
+                     style="-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">GDP per Capita (2023 - log scale)</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path11" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="Y-axis titled 'Life Expectancy (Years)' for a linear scale with values from 68 to 86"
+             id="g24">
+            <g
+               transform="translate(0.5,0.5)"
+               id="g23">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path13" />
+              <g
+                 id="g22">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g16">
+                  <line
+                     transform="translate(0,378)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line13" />
+                  <line
+                     transform="translate(0,267)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line14" />
+                  <line
+                     transform="translate(0,156)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line15" />
+                  <line
+                     transform="translate(0,44)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="1"
+                     opacity="1"
+                     id="line16" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g19">
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,380.77777777777777)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text16">69</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,269.6666666666667)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text17">74</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,158.55555555555554)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text18">79</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,47.444444444444464)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text19">84</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g20" />
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g21">
+                  <text
+                     text-anchor="middle"
+                     transform="rotate(-90,87.938477,112.06152)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text20"><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+                       id="tspan62">Years</tspan></text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path22" />
+            </g>
+          </g>
+          <g
+             class="mark-symbol role-mark layer_0_marks"
+             role="graphics-object"
+             aria-roledescription="symbol mark container"
+             id="g53">
+            <path
+               aria-label="2023: 60461.1564; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 83; Reference area: Australia; OBS_VALUE: 83"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(267.967519312783,66.66666666666666)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path24" />
+            <path
+               aria-label="2023: 64394.09052; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 82; Reference area: Austria; OBS_VALUE: 81.9"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(276.3702861026992,91.11111111111097)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path25" />
+            <path
+               aria-label="2023: 33141.84442; GDP per Capita (2023 - log scale): 10; Life Expectancy (Years): 76; Reference area: Bulgaria; OBS_VALUE: 75.8"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(187.8069259777571,226.66666666666674)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path26" />
+            <path
+               aria-label="2023: 57517.44316; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 81; Reference area: Canada; OBS_VALUE: 81.34"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(261.3124720114212,103.55555555555549)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path27" />
+            <path
+               aria-label="2023: 82302.04918; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 84; Reference area: Switzerland; OBS_VALUE: 84.3"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(309.0868380348837,37.77777777777782)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path28" />
+            <path
+               aria-label="2023: 29563.67802; GDP per Capita (2023 - log scale): 10; Life Expectancy (Years): 81; Reference area: Chile; OBS_VALUE: 81"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(172.57357238626935,111.11111111111111)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path29" />
+            <path
+               aria-label="2023: 18382.99768; GDP per Capita (2023 - log scale): 10; Life Expectancy (Years): 77; Reference area: Colombia; OBS_VALUE: 76.8"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(109.22419697057417,204.4444444444445)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path30" />
+            <path
+               aria-label="2023: 47509.52384; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 80; Reference area: Czechia; OBS_VALUE: 79.9"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(235.8247295759535,135.55555555555543)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path31" />
+            <path
+               aria-label="2023: 62686.54085; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 81; Reference area: Germany; OBS_VALUE: 81.1"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(272.786939211831,108.88888888888903)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path32" />
+            <path
+               aria-label="2023: 71454.52091; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 82; Reference area: Denmark; OBS_VALUE: 81.8"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(290.2421940152249,93.3333333333334)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path33" />
+            <path
+               aria-label="2023: 47341.17179; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 84; Reference area: Spain; OBS_VALUE: 83.77"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(235.35141805361425,49.555555555555664)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path34" />
+            <path
+               aria-label="2023: 56246.44315; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 82; Reference area: Finland; OBS_VALUE: 81.6"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(258.3330780237993,97.77777777777791)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path35" />
+            <path
+               aria-label="2023: 54017.87417; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 83; Reference area: France; OBS_VALUE: 83"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(252.94270319001365,66.66666666666666)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path36" />
+            <path
+               aria-label="2023: 52502.91533; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 81; Reference area: United Kingdom; OBS_VALUE: 80.7"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(249.14986361776195,117.77777777777771)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path37" />
+            <path
+               aria-label="2023: 36854.5044; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 82; Reference area: Greece; OBS_VALUE: 81.8"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(201.96441683193692,93.3333333333334)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path38" />
+            <path
+               aria-label="2023: 40368.58819; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 77; Reference area: Hungary; OBS_VALUE: 76.54"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(214.10763219656678,210.2222222222221)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path39" />
+            <path
+               aria-label="2023: 9301.756032; GDP per Capita (2023 - log scale): 9; Life Expectancy (Years): 70; Reference area: India; OBS_VALUE: 69.9"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(18.394464261617806,357.77777777777766)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path40" />
+            <path
+               aria-label="2023: 47527.15102; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 83; Reference area: Israel; OBS_VALUE: 82.6"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(235.8741902856655,75.55555555555569)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path41" />
+            <path
+               aria-label="2023: 52725.7462; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 83; Reference area: Italy; OBS_VALUE: 83.4"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(249.71455439010958,57.77777777777766)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path42" />
+            <path
+               aria-label="2023: 45858.65951; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 85; Reference area: Japan; OBS_VALUE: 84.72"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(231.109243458229,28.44444444444445)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path43" />
+            <path
+               aria-label="2023: 21905.17733; GDP per Capita (2023 - log scale): 10; Life Expectancy (Years): 76; Reference area: Mexico; OBS_VALUE: 75.5"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(132.59710608363164,233.33333333333331)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path44" />
+            <path
+               aria-label="2023: 70673.969; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 82; Reference area: Netherlands; OBS_VALUE: 81.9"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(288.77767927373554,91.11111111111097)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path45" />
+            <path
+               aria-label="2023: 90085.55245; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 83; Reference area: Norway; OBS_VALUE: 83.1"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(321.1353440763313,64.44444444444457)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path46" />
+            <path
+               aria-label="2023: 49083.50859; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 82; Reference area: New Zealand; OBS_VALUE: 82.3"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(240.17045112447684,82.22222222222229)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path47" />
+            <path
+               aria-label="2023: 15327.582; GDP per Capita (2023 - log scale): 10; Life Expectancy (Years): 77; Reference area: Peru; OBS_VALUE: 77"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(84.98789726451909,200)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path48" />
+            <path
+               aria-label="2023: 43672.7668; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 78; Reference area: Poland; OBS_VALUE: 78.4"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(224.59733352910476,168.88888888888877)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path49" />
+            <path
+               aria-label="2023: 41571.02034; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 81; Reference area: Portugal; OBS_VALUE: 81.17"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(218.02114360667986,107.33333333333329)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path50" />
+            <path
+               aria-label="2023: 40303.81833; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 76; Reference area: Romania; OBS_VALUE: 76.4"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(213.89353214522396,213.3333333333332)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path51" />
+            <path
+               aria-label="2023: 62845.48323; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 83; Reference area: Sweden; OBS_VALUE: 83.4"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(273.1245794086396,57.77777777777766)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path52" />
+            <path
+               aria-label="2023: 74158.71642; GDP per Capita (2023 - log scale): 11; Life Expectancy (Years): 77; Reference area: United States; OBS_VALUE: 77"
+               role="graphics-symbol"
+               aria-roledescription="circle"
+               transform="translate(295.19505224500267,200)"
+               d="M6.124,0A6.124,6.124,0,1,1,-6.124,0A6.124,6.124,0,1,1,6.124,0"
+               fill="#095092"
+               stroke-width="2"
+               opacity="0.7"
+               id="path53" />
+          </g>
+          <g
+             class="mark-line role-mark layer_1_marks"
+             role="graphics-object"
+             aria-roledescription="line mark container"
+             id="g54">
+            <path
+               aria-label="log_2023: 9.13795848196; OBS_VALUE: 72.5795500164"
+               role="graphics-symbol"
+               aria-roledescription="line mark"
+               d="M18.394,298.232L321.135,47.452"
+               stroke="#3F3E3EC3"
+               stroke-width="2"
+               stroke-dasharray="4,2"
+               id="path54" />
+          </g>
+          <g
+             class="mark-group role-title"
+             id="g58">
+            <g
+               transform="translate(-33.123046875,-43)"
+               id="g57">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path55" />
+              <g
+                 id="g56">
+                <g
+                   class="mark-text role-title-text"
+                   role="graphics-symbol"
+                   aria-roledescription="title"
+                   aria-label="Title text 'Life Expectancy vs GDP per Capita (2023 - log)'"
+                   pointer-events="none"
+                   id="g55">
+                  <text
+                     text-anchor="start"
+                     font-family="sans-serif"
+                     font-size="13px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text55"
+                     style="font-size:16px"
+                     x="19.035835"
+                     y="15.793515"><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+                       id="tspan63">Life Expectancy</tspan></text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path56" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path59" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,2846 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="846"
+   height="588"
+   viewBox="0 0 846 588"
+   id="svg288"
+   sodipodi:docname="03 shape_health_regional_life_expectancy_variation_edited.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs288" />
+  <sodipodi:namedview
+     id="namedview288"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.99659864"
+     inkscape:cx="422.93857"
+     inkscape:cy="294"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="2873"
+     inkscape:window-y="-212"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg288" />
+  <rect
+     width="846"
+     height="588"
+     fill="white"
+     id="rect1" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(40,58)"
+     id="g288">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g287">
+      <g
+         transform="translate(0,0)"
+         id="g286">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M0,0h800v0h-800Z"
+           id="path1" />
+        <g
+           id="g285">
+          <g
+             class="mark-group role-scope concat_0_group"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g280">
+            <g
+               transform="translate(0,0)"
+               id="g279">
+              <g
+                 id="g278">
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g14">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g13">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path3" />
+                    <g
+                       id="g12">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g11">
+                        <line
+                           transform="translate(0,400)"
+                           x2="800"
+                           y2="0"
+                           stroke="#f3f1f1e1"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line3" />
+                        <line
+                           transform="translate(0,350)"
+                           x2="800"
+                           y2="0"
+                           stroke="#f3f1f1e1"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line4" />
+                        <line
+                           transform="translate(0,300)"
+                           x2="800"
+                           y2="0"
+                           stroke="#f3f1f1e1"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line5" />
+                        <line
+                           transform="translate(0,250)"
+                           x2="800"
+                           y2="0"
+                           stroke="#f3f1f1e1"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line6" />
+                        <line
+                           transform="translate(0,200)"
+                           x2="800"
+                           y2="0"
+                           stroke="#f3f1f1e1"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line7" />
+                        <line
+                           transform="translate(0,150)"
+                           x2="800"
+                           y2="0"
+                           stroke="#f3f1f1e1"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line8" />
+                        <line
+                           transform="translate(0,100)"
+                           x2="800"
+                           y2="0"
+                           stroke="#f3f1f1e1"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line9" />
+                        <line
+                           transform="translate(0,50)"
+                           x2="800"
+                           y2="0"
+                           stroke="#f3f1f1e1"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line10" />
+                        <line
+                           transform="translate(0,0)"
+                           x2="800"
+                           y2="0"
+                           stroke="#f3f1f1e1"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line11" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path12" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled 'Country' for a discrete scale with 31 values: Japan, Switzerland, Spain, Italy, Sweden, ending with India"
+                   id="g79">
+                  <g
+                     transform="translate(0.5,400.5)"
+                     id="g78">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path14" />
+                    <g
+                       id="g77">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g44">
+                        <line
+                           transform="translate(12,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line14" />
+                        <line
+                           transform="translate(38,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line15" />
+                        <line
+                           transform="translate(64,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line16" />
+                        <line
+                           transform="translate(90,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line17" />
+                        <line
+                           transform="translate(116,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line18" />
+                        <line
+                           transform="translate(141,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line19" />
+                        <line
+                           transform="translate(167,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line20" />
+                        <line
+                           transform="translate(193,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line21" />
+                        <line
+                           transform="translate(219,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line22" />
+                        <line
+                           transform="translate(245,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line23" />
+                        <line
+                           transform="translate(270,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line24" />
+                        <line
+                           transform="translate(296,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line25" />
+                        <line
+                           transform="translate(322,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line26" />
+                        <line
+                           transform="translate(348,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line27" />
+                        <line
+                           transform="translate(374,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line28" />
+                        <line
+                           transform="translate(399,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line29" />
+                        <line
+                           transform="translate(425,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line30" />
+                        <line
+                           transform="translate(451,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line31" />
+                        <line
+                           transform="translate(477,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line32" />
+                        <line
+                           transform="translate(503,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line33" />
+                        <line
+                           transform="translate(529,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line34" />
+                        <line
+                           transform="translate(554,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line35" />
+                        <line
+                           transform="translate(580,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line36" />
+                        <line
+                           transform="translate(606,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line37" />
+                        <line
+                           transform="translate(632,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line38" />
+                        <line
+                           transform="translate(658,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line39" />
+                        <line
+                           transform="translate(683,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line40" />
+                        <line
+                           transform="translate(709,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line41" />
+                        <line
+                           transform="translate(735,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line42" />
+                        <line
+                           transform="translate(761,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line43" />
+                        <line
+                           transform="translate(787,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line44" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g74">
+                        <text
+                           text-anchor="end"
+                           transform="translate(12.403225806451612,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text44">Japan</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(38.20967741935483,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text45">Switzerland</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(64.01612903225806,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text46">Spain</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(89.82258064516128,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text47">Italy</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(115.62903225806451,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text48">Sweden</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(141.43548387096774,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text49">Norway</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(167.24193548387095,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text50">France</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(193.04838709677418,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text51">Australia</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(218.8548387096774,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text52">Israel</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(244.66129032258064,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text53">New Zealand</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(270.46774193548384,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text54">Austria</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(296.2741935483871,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text55">Netherlands</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(322.08064516129025,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text56">Denmark</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(347.8870967741935,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text57">Greece</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(373.6935483870967,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text58">Finland</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(399.49999999999994,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text59">Canada</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(425.3064516129032,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text60">Portugal</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(451.1129032258064,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text61">Germany</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(476.91935483870964,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text62">Chile</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(502.72580645161287,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text63">United Kingdom</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(528.5322580645161,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text64">Czechia</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(554.3387096774193,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text65">Poland</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(580.1451612903226,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text66">United States</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(605.9516129032257,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text67">Peru</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(631.7580645161289,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text68">Colombia</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(657.5645161290322,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text69">Hungary</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(683.3709677419354,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text70">Romania</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(709.1774193548387,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text71">Bulgaria</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(734.9838709677418,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text72">Mexico</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(760.7903225806451,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text73">Russia</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(786.5967741935483,7) rotate(270) translate(0,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text74">India</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g75">
+                        <line
+                           transform="translate(0,0)"
+                           x2="800"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line74" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g76">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(400,91.152344)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text75"><tspan
+                             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+                             id="tspan290">Country</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path77" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis titled 'Life Expectancy (years)' for a linear scale with values from 50 to 90"
+                   id="g100">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g99">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path79" />
+                    <g
+                       id="g98">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g87">
+                        <line
+                           transform="translate(0,400)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line79" />
+                        <line
+                           transform="translate(0,350)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line80" />
+                        <line
+                           transform="translate(0,300)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line81" />
+                        <line
+                           transform="translate(0,250)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line82" />
+                        <line
+                           transform="translate(0,200)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line83" />
+                        <line
+                           transform="translate(0,150)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line84" />
+                        <line
+                           transform="translate(0,100)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line85" />
+                        <line
+                           transform="translate(0,50)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line86" />
+                        <line
+                           transform="translate(0,0)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line87" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g95">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,403)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text87">50</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,353)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text88">55</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,303)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text89">60</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,253)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text90">65</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,203)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text91">70</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,153)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text92">75</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,103)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text93">80</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,53)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text94">85</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text95">90</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g96" />
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g97">
+                        <text
+                           text-anchor="middle"
+                           transform="rotate(-90)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text96"
+                           x="-194.98293"
+                           y="-25.126455"><tspan
+                             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+                             id="tspan289">Years</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path98" />
+                  </g>
+                </g>
+                <g
+                   class="mark-rule role-mark concat_0_layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="rule mark container"
+                   id="g130">
+                  <line
+                     aria-label="Country: Australia; Min of Value: 78.4; Max of Value: 83.7; Worst Region Deviation: 78.4; Best Region Deviation: 83.7"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(193.54838709677418,115.99999999999993)"
+                     x2="0"
+                     y2="-52.99999999999994"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line100" />
+                  <line
+                     aria-label="Country: Austria; Min of Value: 81; Max of Value: 83.3; Worst Region Deviation: 81; Best Region Deviation: 83.3"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(270.96774193548384,89.99999999999999)"
+                     x2="0"
+                     y2="-22.999999999999943"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line101" />
+                  <line
+                     aria-label="Country: Bulgaria; Min of Value: 73.9; Max of Value: 76.9; Worst Region Deviation: 73.9; Best Region Deviation: 76.9"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(709.6774193548387,160.99999999999994)"
+                     x2="0"
+                     y2="-29.99999999999997"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line102" />
+                  <line
+                     aria-label="Country: Canada; Min of Value: 71.7; Max of Value: 82.48; Worst Region Deviation: 71.7; Best Region Deviation: 82.48"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(399.99999999999994,182.99999999999997)"
+                     x2="0"
+                     y2="-107.8"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line103" />
+                  <line
+                     aria-label="Country: Switzerland; Min of Value: 83.7; Max of Value: 85.2; Worst Region Deviation: 83.7; Best Region Deviation: 85.2"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(38.70967741935483,62.999999999999986)"
+                     x2="0"
+                     y2="-15.000000000000028"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line104" />
+                  <line
+                     aria-label="Country: Chile; Min of Value: 79.4; Max of Value: 82.2; Worst Region Deviation: 79.4; Best Region Deviation: 82.2"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(477.41935483870964,105.99999999999996)"
+                     x2="0"
+                     y2="-27.99999999999997"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line105" />
+                  <line
+                     aria-label="Country: Colombia; Min of Value: 64.5; Max of Value: 79.61; Worst Region Deviation: 64.5; Best Region Deviation: 79.61"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(632.2580645161289,254.99999999999997)"
+                     x2="0"
+                     y2="-151.09999999999997"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line106" />
+                  <line
+                     aria-label="Country: Czechia; Min of Value: 78.1; Max of Value: 81.4; Worst Region Deviation: 78.1; Best Region Deviation: 81.4"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(529.0322580645161,119.00000000000004)"
+                     x2="0"
+                     y2="-33.0000000000001"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line107" />
+                  <line
+                     aria-label="Country: Germany; Min of Value: 79.2; Max of Value: 82.4; Worst Region Deviation: 79.2; Best Region Deviation: 82.4"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(451.6129032258064,107.99999999999996)"
+                     x2="0"
+                     y2="-32.00000000000003"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line108" />
+                  <line
+                     aria-label="Country: Denmark; Min of Value: 81.2; Max of Value: 82.2; Worst Region Deviation: 81.2; Best Region Deviation: 82.2"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(322.58064516129025,87.99999999999999)"
+                     x2="0"
+                     y2="-10"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line109" />
+                  <line
+                     aria-label="Country: Spain; Min of Value: 81.11; Max of Value: 85.39; Worst Region Deviation: 81.11; Best Region Deviation: 85.39"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(64.51612903225806,88.90000000000002)"
+                     x2="0"
+                     y2="-42.80000000000003"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line110" />
+                  <line
+                     aria-label="Country: Finland; Min of Value: 81.2; Max of Value: 85.1; Worst Region Deviation: 81.2; Best Region Deviation: 85.1"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(374.1935483870967,87.99999999999999)"
+                     x2="0"
+                     y2="-38.99999999999992"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line111" />
+                  <line
+                     aria-label="Country: France; Min of Value: 74.9; Max of Value: 84.9; Worst Region Deviation: 74.9; Best Region Deviation: 84.9"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(167.74193548387095,150.99999999999994)"
+                     x2="0"
+                     y2="-100"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line112" />
+                  <line
+                     aria-label="Country: United Kingdom; Min of Value: 79.2; Max of Value: 82; Worst Region Deviation: 79.2; Best Region Deviation: 82"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(503.22580645161287,107.99999999999996)"
+                     x2="0"
+                     y2="-27.99999999999997"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line113" />
+                  <line
+                     aria-label="Country: Greece; Min of Value: 80.7; Max of Value: 83.8; Worst Region Deviation: 80.7; Best Region Deviation: 83.8"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(348.3870967741935,92.99999999999997)"
+                     x2="0"
+                     y2="-30.999999999999957"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line114" />
+                  <line
+                     aria-label="Country: Hungary; Min of Value: 74.83; Max of Value: 77.87; Worst Region Deviation: 74.83; Best Region Deviation: 77.87"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(658.0645161290322,151.70000000000005)"
+                     x2="0"
+                     y2="-30.400000000000077"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line115" />
+                  <line
+                     aria-label="Country: India; Min of Value: 65.2; Max of Value: 75.3; Worst Region Deviation: 65.2; Best Region Deviation: 75.3"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(787.0967741935483,247.99999999999994)"
+                     x2="0"
+                     y2="-100.99999999999991"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line116" />
+                  <line
+                     aria-label="Country: Israel; Min of Value: 81.2826281091; Max of Value: 83.9935594969; Worst Region Deviation: 81.2826281091; Best Region Deviation: 83.9935594969"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(219.3548387096774,87.17371890928204)"
+                     x2="0"
+                     y2="-27.109313878347045"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line117" />
+                  <line
+                     aria-label="Country: Italy; Min of Value: 81.7; Max of Value: 84.7; Worst Region Deviation: 81.7; Best Region Deviation: 84.7"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(90.32258064516128,82.99999999999996)"
+                     x2="0"
+                     y2="-29.99999999999998"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line118" />
+                  <line
+                     aria-label="Country: Japan; Min of Value: 84.04; Max of Value: 85; Worst Region Deviation: 84.04; Best Region Deviation: 85"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(12.903225806451612,59.59999999999992)"
+                     x2="0"
+                     y2="-9.599999999999923"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line119" />
+                  <line
+                     aria-label="Country: Mexico; Min of Value: 73; Max of Value: 77.7; Worst Region Deviation: 73; Best Region Deviation: 77.7"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(735.4838709677418,170.00000000000003)"
+                     x2="0"
+                     y2="-47.00000000000007"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line120" />
+                  <line
+                     aria-label="Country: Netherlands; Min of Value: 80.8; Max of Value: 82.2; Worst Region Deviation: 80.8; Best Region Deviation: 82.2"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(296.7741935483871,92.00000000000004)"
+                     x2="0"
+                     y2="-14.000000000000057"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line121" />
+                  <line
+                     aria-label="Country: Norway; Min of Value: 82; Max of Value: 83.4; Worst Region Deviation: 82; Best Region Deviation: 83.4"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(141.93548387096774,79.99999999999999)"
+                     x2="0"
+                     y2="-14.000000000000057"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line122" />
+                  <line
+                     aria-label="Country: New Zealand; Min of Value: 78.7; Max of Value: 82.7; Worst Region Deviation: 78.7; Best Region Deviation: 82.7"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(245.16129032258064,112.99999999999999)"
+                     x2="0"
+                     y2="-40.00000000000003"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line123" />
+                  <line
+                     aria-label="Country: Peru; Min of Value: 69.79; Max of Value: 77.68; Worst Region Deviation: 69.79; Best Region Deviation: 77.68"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(606.4516129032257,202.09999999999994)"
+                     x2="0"
+                     y2="-78.9"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line124" />
+                  <line
+                     aria-label="Country: Poland; Min of Value: 77.3; Max of Value: 79.8; Worst Region Deviation: 77.3; Best Region Deviation: 79.8"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(554.8387096774193,127.00000000000004)"
+                     x2="0"
+                     y2="-25"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line125" />
+                  <line
+                     aria-label="Country: Portugal; Min of Value: 78.19; Max of Value: 81.82; Worst Region Deviation: 78.19; Best Region Deviation: 81.82"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(425.8064516129032,118.10000000000001)"
+                     x2="0"
+                     y2="-36.299999999999955"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line126" />
+                  <line
+                     aria-label="Country: Romania; Min of Value: 75.5; Max of Value: 77.6; Worst Region Deviation: 75.5; Best Region Deviation: 77.6"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(683.8709677419354,145.00000000000003)"
+                     x2="0"
+                     y2="-20.999999999999957"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line127" />
+                  <line
+                     aria-label="Country: Russia; Min of Value: 67.6; Max of Value: 83.4; Worst Region Deviation: 67.6; Best Region Deviation: 83.4"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(761.2903225806451,224.00000000000006)"
+                     x2="0"
+                     y2="-158.0000000000001"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line128" />
+                  <line
+                     aria-label="Country: Sweden; Min of Value: 82.7; Max of Value: 85; Worst Region Deviation: 82.7; Best Region Deviation: 85"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(116.12903225806451,72.99999999999996)"
+                     x2="0"
+                     y2="-22.999999999999957"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line129" />
+                  <line
+                     aria-label="Country: United States; Min of Value: 71.9; Max of Value: 80.7; Worst Region Deviation: 71.9; Best Region Deviation: 80.7"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(580.6451612903226,180.99999999999997)"
+                     x2="0"
+                     y2="-88"
+                     stroke="lightgray"
+                     stroke-width="8"
+                     opacity="0.4"
+                     id="line130" />
+                </g>
+                <g
+                   class="mark-symbol role-mark concat_0_layer_1_layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="symbol mark container"
+                   id="g222">
+                  <path
+                     aria-label="Country: Australia; Life Expectancy (years): 78.4; Type: Worst Region; Value: 78.4; Worst Region Name: Northern Territory"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(193.54838709677418,115.99999999999993)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path130" />
+                  <path
+                     aria-label="Country: Austria; Life Expectancy (years): 81; Type: Worst Region; Value: 81; Worst Region Name: Vienna"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(270.96774193548384,89.99999999999999)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path131" />
+                  <path
+                     aria-label="Country: Bulgaria; Life Expectancy (years): 73.9; Type: Worst Region; Value: 73.9; Worst Region Name: North West"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(709.6774193548387,160.99999999999994)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path132" />
+                  <path
+                     aria-label="Country: Canada; Life Expectancy (years): 71.7; Type: Worst Region; Value: 71.7; Worst Region Name: Nunavut"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(399.99999999999994,182.99999999999997)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path133" />
+                  <path
+                     aria-label="Country: Switzerland; Life Expectancy (years): 83.7; Type: Worst Region; Value: 83.7; Worst Region Name: Espace Mittelland"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(38.70967741935483,62.999999999999986)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path134" />
+                  <path
+                     aria-label="Country: Chile; Life Expectancy (years): 79.4; Type: Worst Region; Value: 79.4; Worst Region Name: Antofagasta"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(477.41935483870964,105.99999999999996)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path135" />
+                  <path
+                     aria-label="Country: Colombia; Life Expectancy (years): 64.5; Type: Worst Region; Value: 64.5; Worst Region Name: Vaupés"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(632.2580645161289,254.99999999999997)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path136" />
+                  <path
+                     aria-label="Country: Czechia; Life Expectancy (years): 78.1; Type: Worst Region; Value: 78.1; Worst Region Name: Northwest"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(529.0322580645161,119.00000000000004)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path137" />
+                  <path
+                     aria-label="Country: Germany; Life Expectancy (years): 79.2; Type: Worst Region; Value: 79.2; Worst Region Name: Saxony-Anhalt"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(451.6129032258064,107.99999999999996)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path138" />
+                  <path
+                     aria-label="Country: Denmark; Life Expectancy (years): 81.2; Type: Worst Region; Value: 81.2; Worst Region Name: Zealand"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(322.58064516129025,87.99999999999999)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path139" />
+                  <path
+                     aria-label="Country: Spain; Life Expectancy (years): 81.11; Type: Worst Region; Value: 81.11; Worst Region Name: Ceuta"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(64.51612903225806,88.90000000000002)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path140" />
+                  <path
+                     aria-label="Country: Finland; Life Expectancy (years): 81.2; Type: Worst Region; Value: 81.2; Worst Region Name: Northern and Eastern Finland"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(374.1935483870967,87.99999999999999)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path141" />
+                  <path
+                     aria-label="Country: France; Life Expectancy (years): 74.9; Type: Worst Region; Value: 74.9; Worst Region Name: Mayotte"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(167.74193548387095,150.99999999999994)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path142" />
+                  <path
+                     aria-label="Country: United Kingdom; Life Expectancy (years): 79.2; Type: Worst Region; Value: 79.2; Worst Region Name: North East England"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(503.22580645161287,107.99999999999996)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path143" />
+                  <path
+                     aria-label="Country: Greece; Life Expectancy (years): 80.7; Type: Worst Region; Value: 80.7; Worst Region Name: Eastern Macedonia, Thrace"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(348.3870967741935,92.99999999999997)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path144" />
+                  <path
+                     aria-label="Country: Hungary; Life Expectancy (years): 74.83; Type: Worst Region; Value: 74.83; Worst Region Name: Northern Hungary"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(658.0645161290322,151.70000000000005)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path145" />
+                  <path
+                     aria-label="Country: India; Life Expectancy (years): 65.2; Type: Worst Region; Value: 65.2; Worst Region Name: Chhattisgarh"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(787.0967741935483,247.99999999999994)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path146" />
+                  <path
+                     aria-label="Country: Israel; Life Expectancy (years): 81.2826281091; Type: Worst Region; Value: 81.2826281091; Worst Region Name: Southern District"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(219.3548387096774,87.17371890928204)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path147" />
+                  <path
+                     aria-label="Country: Italy; Life Expectancy (years): 81.7; Type: Worst Region; Value: 81.7; Worst Region Name: Campania"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(90.32258064516128,82.99999999999996)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path148" />
+                  <path
+                     aria-label="Country: Japan; Life Expectancy (years): 84.04; Type: Worst Region; Value: 84.04; Worst Region Name: Tohoku"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(12.903225806451612,59.59999999999992)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path149" />
+                  <path
+                     aria-label="Country: Mexico; Life Expectancy (years): 73; Type: Worst Region; Value: 73; Worst Region Name: Chiapas"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(735.4838709677418,170.00000000000003)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path150" />
+                  <path
+                     aria-label="Country: Netherlands; Life Expectancy (years): 80.8; Type: Worst Region; Value: 80.8; Worst Region Name: Groningen"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(296.7741935483871,92.00000000000004)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path151" />
+                  <path
+                     aria-label="Country: Norway; Life Expectancy (years): 82; Type: Worst Region; Value: 82; Worst Region Name: Innlandet"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(141.93548387096774,79.99999999999999)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path152" />
+                  <path
+                     aria-label="Country: New Zealand; Life Expectancy (years): 78.7; Type: Worst Region; Value: 78.7; Worst Region Name: Gisborne"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(245.16129032258064,112.99999999999999)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path153" />
+                  <path
+                     aria-label="Country: Peru; Life Expectancy (years): 69.79; Type: Worst Region; Value: 69.79; Worst Region Name: Huancavelica"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(606.4516129032257,202.09999999999994)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path154" />
+                  <path
+                     aria-label="Country: Poland; Life Expectancy (years): 77.3; Type: Worst Region; Value: 77.3; Worst Region Name: Lodzkie"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(554.8387096774193,127.00000000000004)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path155" />
+                  <path
+                     aria-label="Country: Portugal; Life Expectancy (years): 78.19; Type: Worst Region; Value: 78.19; Worst Region Name: Autonomous Region of the Azores"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(425.8064516129032,118.10000000000001)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path156" />
+                  <path
+                     aria-label="Country: Romania; Life Expectancy (years): 75.5; Type: Worst Region; Value: 75.5; Worst Region Name: North East"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(683.8709677419354,145.00000000000003)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path157" />
+                  <path
+                     aria-label="Country: Russia; Life Expectancy (years): 67.6; Type: Worst Region; Value: 67.6; Worst Region Name: Tyva Republic"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(761.2903225806451,224.00000000000006)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path158" />
+                  <path
+                     aria-label="Country: Sweden; Life Expectancy (years): 82.7; Type: Worst Region; Value: 82.7; Worst Region Name: Upper Norrland"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(116.12903225806451,72.99999999999996)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path159" />
+                  <path
+                     aria-label="Country: United States; Life Expectancy (years): 71.9; Type: Worst Region; Value: 71.9; Worst Region Name: Mississippi"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(580.6451612903226,180.99999999999997)"
+                     d="M0,4.33L-5,-4.33L5,-4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path160" />
+                  <path
+                     aria-label="Country: Australia; Life Expectancy (years): 83.7; Type: Best Region; Value: 83.7; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(193.54838709677418,62.999999999999986)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path161" />
+                  <path
+                     aria-label="Country: Austria; Life Expectancy (years): 83.3; Type: Best Region; Value: 83.3; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(270.96774193548384,67.00000000000004)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path162" />
+                  <path
+                     aria-label="Country: Bulgaria; Life Expectancy (years): 76.9; Type: Best Region; Value: 76.9; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(709.6774193548387,130.99999999999997)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path163" />
+                  <path
+                     aria-label="Country: Canada; Life Expectancy (years): 82.48; Type: Best Region; Value: 82.48; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(399.99999999999994,75.19999999999997)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path164" />
+                  <path
+                     aria-label="Country: Switzerland; Life Expectancy (years): 85.2; Type: Best Region; Value: 85.2; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(38.70967741935483,47.99999999999996)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path165" />
+                  <path
+                     aria-label="Country: Chile; Life Expectancy (years): 82.2; Type: Best Region; Value: 82.2; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(477.41935483870964,77.99999999999999)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path166" />
+                  <path
+                     aria-label="Country: Colombia; Life Expectancy (years): 79.61; Type: Best Region; Value: 79.61; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(632.2580645161289,103.90000000000002)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path167" />
+                  <path
+                     aria-label="Country: Czechia; Life Expectancy (years): 81.4; Type: Best Region; Value: 81.4; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(529.0322580645161,85.99999999999994)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path168" />
+                  <path
+                     aria-label="Country: Germany; Life Expectancy (years): 82.4; Type: Best Region; Value: 82.4; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(451.6129032258064,75.99999999999993)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path169" />
+                  <path
+                     aria-label="Country: Denmark; Life Expectancy (years): 82.2; Type: Best Region; Value: 82.2; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(322.58064516129025,77.99999999999999)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path170" />
+                  <path
+                     aria-label="Country: Spain; Life Expectancy (years): 85.39; Type: Best Region; Value: 85.39; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(64.51612903225806,46.09999999999999)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path171" />
+                  <path
+                     aria-label="Country: Finland; Life Expectancy (years): 85.1; Type: Best Region; Value: 85.1; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(374.1935483870967,49.000000000000064)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path172" />
+                  <path
+                     aria-label="Country: France; Life Expectancy (years): 84.9; Type: Best Region; Value: 84.9; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(167.74193548387095,50.999999999999936)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path173" />
+                  <path
+                     aria-label="Country: United Kingdom; Life Expectancy (years): 82; Type: Best Region; Value: 82; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(503.22580645161287,79.99999999999999)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path174" />
+                  <path
+                     aria-label="Country: Greece; Life Expectancy (years): 83.8; Type: Best Region; Value: 83.8; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(348.3870967741935,62.000000000000014)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path175" />
+                  <path
+                     aria-label="Country: Hungary; Life Expectancy (years): 77.87; Type: Best Region; Value: 77.87; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(658.0645161290322,121.29999999999997)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path176" />
+                  <path
+                     aria-label="Country: India; Life Expectancy (years): 75.3; Type: Best Region; Value: 75.3; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(787.0967741935483,147.00000000000003)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path177" />
+                  <path
+                     aria-label="Country: Israel; Life Expectancy (years): 83.9935594969; Type: Best Region; Value: 83.9935594969; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(219.3548387096774,60.064405030935)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path178" />
+                  <path
+                     aria-label="Country: Italy; Life Expectancy (years): 84.7; Type: Best Region; Value: 84.7; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(90.32258064516128,52.99999999999998)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path179" />
+                  <path
+                     aria-label="Country: Japan; Life Expectancy (years): 85; Type: Best Region; Value: 85; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(12.903225806451612,50)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path180" />
+                  <path
+                     aria-label="Country: Mexico; Life Expectancy (years): 77.7; Type: Best Region; Value: 77.7; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(735.4838709677418,122.99999999999996)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path181" />
+                  <path
+                     aria-label="Country: Netherlands; Life Expectancy (years): 82.2; Type: Best Region; Value: 82.2; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(296.7741935483871,77.99999999999999)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path182" />
+                  <path
+                     aria-label="Country: Norway; Life Expectancy (years): 83.4; Type: Best Region; Value: 83.4; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(141.93548387096774,65.99999999999993)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path183" />
+                  <path
+                     aria-label="Country: New Zealand; Life Expectancy (years): 82.7; Type: Best Region; Value: 82.7; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(245.16129032258064,72.99999999999996)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path184" />
+                  <path
+                     aria-label="Country: Peru; Life Expectancy (years): 77.68; Type: Best Region; Value: 77.68; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(606.4516129032257,123.19999999999993)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path185" />
+                  <path
+                     aria-label="Country: Poland; Life Expectancy (years): 79.8; Type: Best Region; Value: 79.8; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(554.8387096774193,102.00000000000004)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path186" />
+                  <path
+                     aria-label="Country: Portugal; Life Expectancy (years): 81.82; Type: Best Region; Value: 81.82; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(425.8064516129032,81.80000000000005)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path187" />
+                  <path
+                     aria-label="Country: Romania; Life Expectancy (years): 77.6; Type: Best Region; Value: 77.6; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(683.8709677419354,124.00000000000007)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path188" />
+                  <path
+                     aria-label="Country: Russia; Life Expectancy (years): 83.4; Type: Best Region; Value: 83.4; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(761.2903225806451,65.99999999999993)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path189" />
+                  <path
+                     aria-label="Country: Sweden; Life Expectancy (years): 85; Type: Best Region; Value: 85; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(116.12903225806451,50)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path190" />
+                  <path
+                     aria-label="Country: United States; Life Expectancy (years): 80.7; Type: Best Region; Value: 80.7; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(580.6451612903226,92.99999999999997)"
+                     d="M0,-4.33L-5,4.33L5,4.33Z"
+                     fill="#3C3F3C"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path191" />
+                  <path
+                     aria-label="Country: Australia; Life Expectancy (years): 83; Type: National Average; Value: 83; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(193.54838709677418,70.00000000000001)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path192" />
+                  <path
+                     aria-label="Country: Austria; Life Expectancy (years): 81.9; Type: National Average; Value: 81.9; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(270.96774193548384,80.99999999999996)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path193" />
+                  <path
+                     aria-label="Country: Bulgaria; Life Expectancy (years): 75.8; Type: National Average; Value: 75.8; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(709.6774193548387,142.00000000000003)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path194" />
+                  <path
+                     aria-label="Country: Canada; Life Expectancy (years): 81.34; Type: National Average; Value: 81.34; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(399.99999999999994,86.59999999999997)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path195" />
+                  <path
+                     aria-label="Country: Switzerland; Life Expectancy (years): 84.3; Type: National Average; Value: 84.3; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(38.70967741935483,57.00000000000003)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path196" />
+                  <path
+                     aria-label="Country: Chile; Life Expectancy (years): 81; Type: National Average; Value: 81; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(477.41935483870964,89.99999999999999)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path197" />
+                  <path
+                     aria-label="Country: Colombia; Life Expectancy (years): 76.8; Type: National Average; Value: 76.8; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(632.2580645161289,132.00000000000003)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path198" />
+                  <path
+                     aria-label="Country: Czechia; Life Expectancy (years): 79.9; Type: National Average; Value: 79.9; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(529.0322580645161,100.99999999999993)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path199" />
+                  <path
+                     aria-label="Country: Germany; Life Expectancy (years): 81.1; Type: National Average; Value: 81.1; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(451.6129032258064,89.00000000000006)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path200" />
+                  <path
+                     aria-label="Country: Denmark; Life Expectancy (years): 81.8; Type: National Average; Value: 81.8; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(322.58064516129025,82.00000000000003)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path201" />
+                  <path
+                     aria-label="Country: Spain; Life Expectancy (years): 83.77; Type: National Average; Value: 83.77; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(64.51612903225806,62.300000000000026)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path202" />
+                  <path
+                     aria-label="Country: Finland; Life Expectancy (years): 81.6; Type: National Average; Value: 81.6; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(374.1935483870967,84.00000000000007)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path203" />
+                  <path
+                     aria-label="Country: France; Life Expectancy (years): 83; Type: National Average; Value: 83; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(167.74193548387095,70.00000000000001)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path204" />
+                  <path
+                     aria-label="Country: United Kingdom; Life Expectancy (years): 80.7; Type: National Average; Value: 80.7; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(503.22580645161287,92.99999999999997)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path205" />
+                  <path
+                     aria-label="Country: Greece; Life Expectancy (years): 81.8; Type: National Average; Value: 81.8; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(348.3870967741935,82.00000000000003)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path206" />
+                  <path
+                     aria-label="Country: Hungary; Life Expectancy (years): 76.54; Type: National Average; Value: 76.54; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(658.0645161290322,134.5999999999999)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path207" />
+                  <path
+                     aria-label="Country: India; Life Expectancy (years): 69.9; Type: National Average; Value: 69.9; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(787.0967741935483,200.99999999999994)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path208" />
+                  <path
+                     aria-label="Country: Israel; Life Expectancy (years): 82.6; Type: National Average; Value: 82.6; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(219.3548387096774,74.00000000000007)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path209" />
+                  <path
+                     aria-label="Country: Italy; Life Expectancy (years): 83.4; Type: National Average; Value: 83.4; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(90.32258064516128,65.99999999999993)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path210" />
+                  <path
+                     aria-label="Country: Japan; Life Expectancy (years): 84.72; Type: National Average; Value: 84.72; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(12.903225806451612,52.800000000000004)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path211" />
+                  <path
+                     aria-label="Country: Mexico; Life Expectancy (years): 75.5; Type: National Average; Value: 75.5; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(735.4838709677418,145.00000000000003)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path212" />
+                  <path
+                     aria-label="Country: Netherlands; Life Expectancy (years): 81.9; Type: National Average; Value: 81.9; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(296.7741935483871,80.99999999999996)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path213" />
+                  <path
+                     aria-label="Country: Norway; Life Expectancy (years): 83.1; Type: National Average; Value: 83.1; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(141.93548387096774,69.00000000000004)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path214" />
+                  <path
+                     aria-label="Country: New Zealand; Life Expectancy (years): 82.3; Type: National Average; Value: 82.3; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(245.16129032258064,77.00000000000004)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path215" />
+                  <path
+                     aria-label="Country: Peru; Life Expectancy (years): 77; Type: National Average; Value: 77; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(606.4516129032257,129.99999999999997)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path216" />
+                  <path
+                     aria-label="Country: Poland; Life Expectancy (years): 78.4; Type: National Average; Value: 78.4; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(554.8387096774193,115.99999999999993)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path217" />
+                  <path
+                     aria-label="Country: Portugal; Life Expectancy (years): 81.17; Type: National Average; Value: 81.17; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(425.8064516129032,88.3)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path218" />
+                  <path
+                     aria-label="Country: Romania; Life Expectancy (years): 76.4; Type: National Average; Value: 76.4; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(683.8709677419354,135.99999999999994)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path219" />
+                  <path
+                     aria-label="Country: Russia; Life Expectancy (years): 73.2; Type: National Average; Value: 73.2; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(761.2903225806451,167.99999999999997)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path220" />
+                  <path
+                     aria-label="Country: Sweden; Life Expectancy (years): 83.4; Type: National Average; Value: 83.4; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(116.12903225806451,65.99999999999993)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path221" />
+                  <path
+                     aria-label="Country: United States; Life Expectancy (years): 77; Type: National Average; Value: 77; Worst Region Name: None"
+                     role="graphics-symbol"
+                     aria-roledescription="point"
+                     transform="translate(580.6451612903226,129.99999999999997)"
+                     d="M-5,-5h10v10h-10Z"
+                     fill="#095092"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path222" />
+                </g>
+                <g
+                   class="mark-text role-mark concat_0_layer_1_layer_1_marks"
+                   role="graphics-object"
+                   aria-roledescription="text mark container"
+                   id="g252">
+                  <text
+                     aria-label="Country: Australia; Value: 78.4; WorstRegionName: Northern Territory"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(193.54838709677418,115.99999999999993) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text222">Northern Territory</text>
+                  <text
+                     aria-label="Country: Austria; Value: 81; WorstRegionName: Vienna"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(270.96774193548384,89.99999999999999) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text223">Vienna</text>
+                  <text
+                     aria-label="Country: Bulgaria; Value: 73.9; WorstRegionName: North West"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(709.6774193548387,160.99999999999994) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text224">North West</text>
+                  <text
+                     aria-label="Country: Canada; Value: 71.7; WorstRegionName: Nunavut"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(399.99999999999994,182.99999999999997) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text225">Nunavut</text>
+                  <text
+                     aria-label="Country: Switzerland; Value: 83.7; WorstRegionName: Espace Mittelland"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(38.70967741935483,62.999999999999986) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text226">Espace Mittelland</text>
+                  <text
+                     aria-label="Country: Chile; Value: 79.4; WorstRegionName: Antofagasta"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(477.41935483870964,105.99999999999996) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text227">Antofagasta</text>
+                  <text
+                     aria-label="Country: Colombia; Value: 64.5; WorstRegionName: Vaupés"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(632.2580645161289,254.99999999999997) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text228">Vaupés</text>
+                  <text
+                     aria-label="Country: Czechia; Value: 78.1; WorstRegionName: Northwest"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(529.0322580645161,119.00000000000004) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text229">Northwest</text>
+                  <text
+                     aria-label="Country: Germany; Value: 79.2; WorstRegionName: Saxony-Anhalt"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(451.6129032258064,107.99999999999996) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text230">Saxony-Anhalt</text>
+                  <text
+                     aria-label="Country: Denmark; Value: 81.2; WorstRegionName: Zealand"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(322.58064516129025,87.99999999999999) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text231">Zealand</text>
+                  <text
+                     aria-label="Country: Spain; Value: 81.11; WorstRegionName: Ceuta"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(64.51612903225806,88.90000000000002) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text232">Ceuta</text>
+                  <text
+                     aria-label="Country: Finland; Value: 81.2; WorstRegionName: Northern and Eastern Finland"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(374.1935483870967,87.99999999999999) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text233">Northern and Eastern Finland</text>
+                  <text
+                     aria-label="Country: France; Value: 74.9; WorstRegionName: Mayotte"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(167.74193548387095,150.99999999999994) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text234">Mayotte</text>
+                  <text
+                     aria-label="Country: United Kingdom; Value: 79.2; WorstRegionName: North East England"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(503.22580645161287,107.99999999999996) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text235">North East England</text>
+                  <text
+                     aria-label="Country: Greece; Value: 80.7; WorstRegionName: Eastern Macedonia, Thrace"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(348.3870967741935,92.99999999999997) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text236">Eastern Macedonia, Thrace</text>
+                  <text
+                     aria-label="Country: Hungary; Value: 74.83; WorstRegionName: Northern Hungary"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(658.0645161290322,151.70000000000005) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text237">Northern Hungary</text>
+                  <text
+                     aria-label="Country: India; Value: 65.2; WorstRegionName: Chhattisgarh"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(787.0967741935483,247.99999999999994) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text238">Chhattisgarh</text>
+                  <text
+                     aria-label="Country: Israel; Value: 81.2826281091; WorstRegionName: Southern District"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(219.3548387096774,87.17371890928204) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text239">Southern District</text>
+                  <text
+                     aria-label="Country: Italy; Value: 81.7; WorstRegionName: Campania"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(90.32258064516128,82.99999999999996) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text240">Campania</text>
+                  <text
+                     aria-label="Country: Japan; Value: 84.04; WorstRegionName: Tohoku"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(12.903225806451612,59.59999999999992) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text241">Tohoku</text>
+                  <text
+                     aria-label="Country: Mexico; Value: 73; WorstRegionName: Chiapas"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(735.4838709677418,170.00000000000003) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text242">Chiapas</text>
+                  <text
+                     aria-label="Country: Netherlands; Value: 80.8; WorstRegionName: Groningen"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(296.7741935483871,92.00000000000004) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text243">Groningen</text>
+                  <text
+                     aria-label="Country: Norway; Value: 82; WorstRegionName: Innlandet"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(141.93548387096774,79.99999999999999) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text244">Innlandet</text>
+                  <text
+                     aria-label="Country: New Zealand; Value: 78.7; WorstRegionName: Gisborne"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(245.16129032258064,112.99999999999999) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text245">Gisborne</text>
+                  <text
+                     aria-label="Country: Peru; Value: 69.79; WorstRegionName: Huancavelica"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(606.4516129032257,202.09999999999994) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text246">Huancavelica</text>
+                  <text
+                     aria-label="Country: Poland; Value: 77.3; WorstRegionName: Lodzkie"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(554.8387096774193,127.00000000000004) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text247">Lodzkie</text>
+                  <text
+                     aria-label="Country: Portugal; Value: 78.19; WorstRegionName: Autonomous Region of the Azores"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(425.8064516129032,118.10000000000001) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text248">Autonomous Region of the Azores</text>
+                  <text
+                     aria-label="Country: Romania; Value: 75.5; WorstRegionName: North East"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(683.8709677419354,145.00000000000003) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text249">North East</text>
+                  <text
+                     aria-label="Country: Russia; Value: 67.6; WorstRegionName: Tyva Republic"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(761.2903225806451,224.00000000000006) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text250">Tyva Republic</text>
+                  <text
+                     aria-label="Country: Sweden; Value: 82.7; WorstRegionName: Upper Norrland"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(116.12903225806451,72.99999999999996) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text251">Upper Norrland</text>
+                  <text
+                     aria-label="Country: United States; Value: 71.9; WorstRegionName: Mississippi"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="end"
+                     transform="translate(580.6451612903226,180.99999999999997) rotate(270) translate(-10,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#3C3F3C91"
+                     id="text252">Mississippi</text>
+                </g>
+                <g
+                   class="mark-group role-legend"
+                   role="graphics-symbol"
+                   aria-roledescription="legend"
+                   aria-label="Symbol legend for shape and fill color with 3 values: Best Region, National Average, Worst Region"
+                   id="g273">
+                  <g
+                     transform="translate(0,-29)"
+                     id="g272">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h260v11h-260Z"
+                       pointer-events="none"
+                       id="path252" />
+                    <g
+                       id="g271">
+                      <g
+                         class="mark-group role-legend-entry"
+                         id="g270">
+                        <g
+                           transform="translate(0,0)"
+                           id="g269">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h0v0h0Z"
+                             pointer-events="none"
+                             id="path253" />
+                          <g
+                             id="g268">
+                            <g
+                               class="mark-group role-scope"
+                               role="graphics-object"
+                               aria-roledescription="group mark container"
+                               id="g267">
+                              <g
+                                 transform="translate(0,0)"
+                                 id="g258">
+                                <path
+                                   class="background"
+                                   aria-hidden="true"
+                                   d="M0,0h70.4775390625v11h-70.4775390625Z"
+                                   pointer-events="none"
+                                   opacity="1"
+                                   id="path254" />
+                                <g
+                                   id="g257">
+                                <g
+                                   class="mark-symbol role-legend-symbol"
+                                   pointer-events="none"
+                                   id="g255">
+                                <path
+                                   d="M 6,4.6802389 1,13.340239 h 10 z"
+                                   fill="#3c3f3c"
+                                   stroke-width="1.5"
+                                   opacity="0.7"
+                                   id="path255" />
+                                </g>
+                                <g
+                                   class="mark-text role-legend-label"
+                                   pointer-events="none"
+                                   id="g256">
+                                <text
+                                   text-anchor="start"
+                                   font-family="sans-serif"
+                                   font-size="10px"
+                                   fill="#000000"
+                                   opacity="1"
+                                   id="text255"
+                                   x="16"
+                                   y="12.010239">Best Region</text>
+                                </g>
+                                </g>
+                                <path
+                                   class="foreground"
+                                   aria-hidden="true"
+                                   d=""
+                                   pointer-events="none"
+                                   display="none"
+                                   id="path257" />
+                              </g>
+                              <g
+                                 transform="translate(81,0)"
+                                 id="g262">
+                                <path
+                                   class="background"
+                                   aria-hidden="true"
+                                   d="M0,0h91.9814453125v11h-91.9814453125Z"
+                                   pointer-events="none"
+                                   opacity="1"
+                                   id="path258" />
+                                <g
+                                   id="g261">
+                                <g
+                                   class="mark-symbol role-legend-symbol"
+                                   pointer-events="none"
+                                   id="g259">
+                                <path
+                                   d="M 1,4.0102389 H 11 V 14.010239 H 1 Z"
+                                   fill="#095092"
+                                   stroke-width="1.5"
+                                   opacity="0.7"
+                                   id="path259" />
+                                </g>
+                                <g
+                                   class="mark-text role-legend-label"
+                                   pointer-events="none"
+                                   id="g260">
+                                <text
+                                   text-anchor="start"
+                                   font-family="sans-serif"
+                                   font-size="10px"
+                                   fill="#000000"
+                                   opacity="1"
+                                   id="text259"
+                                   x="16"
+                                   y="12.010239">National Average</text>
+                                </g>
+                                </g>
+                                <path
+                                   class="foreground"
+                                   aria-hidden="true"
+                                   d=""
+                                   pointer-events="none"
+                                   display="none"
+                                   id="path261" />
+                              </g>
+                              <g
+                                 transform="translate(183,0)"
+                                 id="g266">
+                                <path
+                                   class="background"
+                                   aria-hidden="true"
+                                   d="M0,0h76.3955078125v11h-76.3955078125Z"
+                                   pointer-events="none"
+                                   opacity="1"
+                                   id="path262" />
+                                <g
+                                   id="g265">
+                                <g
+                                   class="mark-symbol role-legend-symbol"
+                                   pointer-events="none"
+                                   id="g263">
+                                <path
+                                   d="M 6,13.340239 1,4.6802389 h 10 z"
+                                   fill="#3c3f3c"
+                                   stroke-width="1.5"
+                                   opacity="0.7"
+                                   id="path263" />
+                                </g>
+                                <g
+                                   class="mark-text role-legend-label"
+                                   pointer-events="none"
+                                   id="g264">
+                                <text
+                                   text-anchor="start"
+                                   font-family="sans-serif"
+                                   font-size="10px"
+                                   fill="#000000"
+                                   opacity="1"
+                                   id="text263"
+                                   x="16"
+                                   y="12.010239">Worst Region</text>
+                                </g>
+                                </g>
+                                <path
+                                   class="foreground"
+                                   aria-hidden="true"
+                                   d=""
+                                   pointer-events="none"
+                                   display="none"
+                                   id="path265" />
+                              </g>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path268" />
+                        </g>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path271" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g277">
+                  <g
+                     transform="translate(-33.123046875,-52)"
+                     id="g276">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path273" />
+                    <g
+                       id="g275">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'Regional Life Expectancy Variation by Country (Circa 2024)'"
+                         pointer-events="none"
+                         id="g274">
+                        <text
+                           text-anchor="start"
+                           font-family="sans-serif"
+                           font-size="13px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text273"
+                           x="32.040955"
+                           y="17.023891"
+                           style="font-size:16px"><tspan
+                             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+                             id="tspan288">Life Expectancy</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path275" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path278" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-scope concat_1_group"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g284">
+            <g
+               transform="translate(0,505)"
+               id="g283">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h800v20h-800Z"
+                 id="path280" />
+              <g
+                 id="g282">
+                <g
+                   class="mark-text role-mark concat_1_marks"
+                   role="graphics-object"
+                   aria-roledescription="text mark container"
+                   id="g281">
+                  <text
+                     aria-label="source: Source: OECD"
+                     role="graphics-symbol"
+                     aria-roledescription="text mark"
+                     text-anchor="start"
+                     transform="translate(0,13)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#808080"
+                     id="text280" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path282" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path285" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="svg500"
+     transform="translate(0.00426911,-0.85153605)">
+    <rect
+       style="fill:#d4aa00;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect502"
+       width="13.668942"
+       height="40.32338"
+       x="-0.68344712"
+       y="6.8344712" />
+  </g>
+</svg>
